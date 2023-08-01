@@ -81,3 +81,46 @@ border-radius: 25px;
 .day-info dvi:not(:last-child) {
   margin-bottom: 6px;
 }
+.day-info div.title {
+  font-weight: 700;
+}
+.day-info div.value {
+  float: right;
+}
+.day-list {
+  display: flex;
+  list-style: none;
+  margin: 10px 35px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.35);
+  border-radius: 10px;
+}
+.day-list li {
+  padding: 15px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+.day-list li .bx {
+  margin-bottom: 5px;
+  font-size: 2rem;
+}
+.day-list li:hover {
+  transform: scale(1.1);
+  color: #222831;
+  background: #fff;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.35);
+}
+.day-list li .day-temp {
+  margin-top: 6px;
+  font-weight: 700;
+}
+.btn-container {
+  padding: 25px 35px;
+}
+.loc-button {
+  
+}
