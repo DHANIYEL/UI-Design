@@ -11,3 +11,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+.container {
+  height: 400px;
+  background-color: #232931;
+  color: #fff;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.35);
+border-radius: 25px;
+}
