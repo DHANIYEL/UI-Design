@@ -1,3 +1,3 @@
 # UI-Design-one
 
-Visit [here](https://github.com/DHANIYEL/UI-Design-one) for preview
+Visit [here](https://dhaniyel.github.io/UI-Design-one/) for preview
